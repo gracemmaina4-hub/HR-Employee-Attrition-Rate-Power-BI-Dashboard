@@ -1,66 +1,89 @@
-👩‍💼 HR Employee Attrition Dashboard
-📌 Project Overview
+# 👩‍💼 HR Employee Attrition Dashboard
 
-This project presents an HR Analytics Dashboard built using Power BI, designed to analyze employee attrition patterns and uncover key factors influencing workforce turnover.
+## 📌 Project Overview
+This project is an **HR Analytics Dashboard** built using **Power BI** to analyze employee attrition and uncover key workforce trends.
 
-The dashboard provides actionable insights into employee demographics, salary distribution, tenure, and performance, helping organizations make data-driven HR decisions to improve retention.
+The dashboard helps identify factors influencing employee turnover, including tenure, salary, performance, and demographics, enabling data-driven HR decisions.
 
-🎯 Objectives
-Analyze employee attrition rates across different dimensions
-Identify trends based on tenure, job roles, and departments
-Understand the relationship between salary, performance, and attrition
-Explore demographic distributions (gender, age groups)
-Provide insights to support employee retention strategies
-📂 Dataset Description
+---
 
-The dataset contains HR records with approximately 12,000 employees, including:
+## 🎯 Objectives
+- Analyze employee attrition rates  
+- Identify trends by tenure, department, and job role  
+- Examine salary distribution across different bands  
+- Understand workforce demographics (gender, age)  
+- Support HR strategies for improving retention  
 
-👥 Employee demographics (Gender, Age Group, Marital Status)
-💼 Job-related information (Department, Job Role, Tenure)
-💰 Salary details (Average Salary, Salary Bands)
-📉 Attrition data (Attrition Rate, Attrition Count)
-⭐ Performance scores
-📊 Key Insights
-📉 Attrition Overview
-Overall attrition rate: 15%
-Attrition count index: 39.33
-Indicates a moderate level of employee turnover
-⏳ Attrition by Tenure
-Highest attrition observed among employees with 10+ years
-Lower attrition in early tenure groups (0–3 years)
-Suggests long-term retention challenges
-📅 Attrition Trend (Years at Company)
-Fluctuating attrition rates across years
-Peaks observed around mid-to-late tenure periods
-Indicates potential burnout or stagnation factors
-👥 Gender Distribution
-Nearly balanced workforce:
-Male: ~50.07%
-Female: ~49.93%
-💰 Salary Insights
-Average salary: 166.09K
-Salary distribution:
-High Income: ~0.26M
-Upper Middle: ~0.19M
-Middle: ~0.11M
-Lower: ~0.06M
-📊 Performance Analysis
-Performance scores are relatively consistent across age groups
-Slight variations suggest experience may influence performance marginally
-📈 Dashboard Features
-Interactive filters:
-Region
-Department
-Job Role
-Marital Status
-KPI cards for quick metrics overview
-Attrition trends over time
-Salary band comparison visuals
-Performance breakdown by age group and gender
-Tenure-based attrition insights
-🛠️ Tools & Technologies
-Power BI – Data visualization and dashboard development
-Excel – Data cleaning and preparation
+---
+
+## 📂 Dataset Description
+The dataset contains HR data for approximately **12,000 employees**, including:
+
+- Employee demographics (Gender, Age Group, Marital Status)  
+- Job details (Department, Job Role, Years at Company)  
+- Salary data (Average Salary, Salary Bands)  
+- Attrition metrics (Attrition Rate, Attrition Count)  
+- Performance scores  
+
+---
+
+## 📊 Key Insights
+
+### 📉 Attrition Overview
+- **Attrition Rate:** 15%  
+- **Attrition Count Index:** 39.33  
+- Indicates moderate employee turnover  
+
+### ⏳ Attrition by Tenure
+- Highest attrition among employees with **10+ years**  
+- Lower attrition in early tenure (0–3 years)  
+
+### 📅 Attrition Trends
+- Attrition fluctuates over time  
+- Peaks observed in mid-to-late tenure stages  
+
+### 👥 Gender Distribution
+- Male: ~50.07%  
+- Female: ~49.93%  
+- Workforce is evenly distributed  
+
+### 💰 Salary Insights
+- **Average Salary:** 166.09K  
+- Salary Bands:
+  - High Income: ~0.26M  
+  - Upper Middle: ~0.19M  
+  - Middle: ~0.11M  
+  - Lower: ~0.06M  
+
+### 📊 Performance Insights
+- Performance is consistent across age groups  
+- Minor variations suggest experience has slight impact  
+
+---
+
+## 📈 Dashboard Features
+- Interactive slicers:
+  - Region  
+  - Department  
+  - Job Role  
+  - Marital Status  
+- KPI cards (Attrition Rate, Total Employees, Avg Salary)  
+- Attrition trends over time  
+- Salary band comparison  
+- Performance analysis by age group and gender  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Dashboard development  
+- **Microsoft Excel** – Data cleaning and preprocessing  
+
+---## 💡 Key Takeaways
+- Attrition rate of **15%** indicates retention challenges  
+- Long-tenured employees are more likely to leave  
+- Salary disparities exist across different bands  
+- Gender distribution is balanced  
+- Performance remains stable across age groups  
 
 
 <img width="523" height="295" alt="HR Attrition" src="https://github.com/user-attachments/assets/32f98a9d-eb40-4c21-9536-e9bb348d3258" />
